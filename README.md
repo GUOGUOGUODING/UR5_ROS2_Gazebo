@@ -1,7 +1,7 @@
 You need to install ROS2 Humble to run all these commands, you also need corresponding control library, please run "setup_ros.sh" to install all the dependencies we need.
 
 please run:
-  colcon build 
+  colcon build  
   source install/setup.bash 
 before running any command.
 
