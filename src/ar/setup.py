@@ -23,6 +23,7 @@ setup(
     entry_points={
         'console_scripts': [
             'ur5_control = ar.ur5_control:main',
+            'ur5e_control = ar.ur5e_control:main'
         ],
     },
 )
